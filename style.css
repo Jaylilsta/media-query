@@ -77,6 +77,9 @@ h3 {
 }
 
 @media(max-width: 680px) {
+  body{
+  background-color:rgb(193, 193, 95);
+}
   .logo {
     position: relative;
     left: 40%;
